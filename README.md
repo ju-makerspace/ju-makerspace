@@ -1,1 +1,1 @@
-# MakerSpace Description
+# JU MakerSpace Description
