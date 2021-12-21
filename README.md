@@ -2,4 +2,5 @@
 
 - 🔥 **Innovation cell** of [JECRC University](https://jecrcuniversity.edu.in/) 
 - ✨ Inaugurated by ***Vice President of TCS*** in 2018
+- 👩‍💻One can learn, develop and create their software or hardware projects here
 - 💡 Open place for innovators from all the field irrespective of age, gender, education, etc
