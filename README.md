@@ -9,4 +9,4 @@
 - Maintain documentation while development of the repective project
 - After project completion make sure to record video illustration of respective project
 - If possible create PPT to brief the project
-- To upload documentaion on GitHub follow documentaion template
+- To upload documentaion on GitHub follow documentaion [template](https://github.com/ju-makerspace/template)
